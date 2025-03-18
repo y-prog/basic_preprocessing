@@ -1,0 +1,6 @@
+﻿CustomerID,Age,Income (£),SignupDate,Purchased,Gender
+1001,25,32000,5/21/2021,Yes,Male
+1002,NaN,45000,8/15/2022,No,Female
+1003,37,NaN,NaN,Yes,Male
+1004,45,62000,1/10/2020,No,Other
+1005,30,29000,2/12/2023,Yes,Female
